@@ -1,0 +1,19 @@
+
+{
+"name": "alexis-themepack",
+"displayName": "Alexis' ThemePack",
+"categories": [
+    "Themes"
+  ],
+"keywords": [
+  ],
+"contributes": {
+  "themes": [
+    {
+      "label": "Alexis' BluePack",
+      "uiTheme": "vs-dark",
+      "path": "themes/colors.json"
+      }
+    ]
+  }
+}
